@@ -227,7 +227,11 @@ GameObject:
   m_Component:
   - component: {fileID: 724430704}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: Niko
+=======
+  m_Name: 2
+>>>>>>> 13d71b61a4005f0f291539a76e112729e2c82ef7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
